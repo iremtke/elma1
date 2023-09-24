@@ -1,0 +1,251 @@
+@charset "utf-8";
+/* CSS Document */
+
+@charset "utf-8";
+/* CSS Document */
+
+
+body
+{
+	padding:0;
+	margin:0;
+}
+
+.menu
+{
+	width:100%;
+	height:50px;
+	background:#333;
+	text-align:center;
+}
+.menu ul
+{
+	margin:0;
+	padding:0;
+	list-style:none;	
+}
+.menu ul li
+{ float:left; }
+.menu ul li a
+{
+	display:block;
+	text-decoration:none;
+	text-align:center;
+	width:120px;
+	height:37px;
+	padding:13px 0 0 0;
+	font:15px 'Montserrat', sans-serif;
+	color:#FFFFFF;	
+}
+.menu ul li#apple a
+{
+	width:21px;
+	height:25px;
+	background:url(images/tab_apple.png) no-repeat no-repeat;
+	margin:10px 0 0 130px;
+}
+.menu ul li#search a
+{
+	width:19px;
+	height:19px;
+	background:url(images/search_icon_white.png) no-repeat no-repeat;
+	margin:13px 0 0 20px;
+}
+.menu ul li a:hover
+{
+	opacity:0.5;
+}
+.icerik
+{
+	width:100%;
+	height:530px;
+	background:#FFFFFE;
+	text-align:center;
+}
+.store
+{
+	float:left;
+	width:500px;
+	height:300px;
+	margin:100px 0 0 70px;
+}
+.storeyazi
+{
+	float:left;
+	width:430px;
+	height:170px;
+	text-align:left;
+	margin:100px 0 0 0;
+	padding:130px 0 0 0;
+}
+.mac
+{
+	float:left;
+	width:364px;
+	height:272px;
+	margin:100px 0 0 100px;	
+}
+.macyazi
+{
+	float:left;
+	width:795px;
+	height:152px;
+	margin:100px 0 0 0;
+	text-align:left;
+	font-size:18px;
+	color:#999;
+	padding:120px 0 0 0;
+}
+.iphone
+{
+	float:left;
+	margin: 0 0 0 100px;	
+}
+.iphoneyazi
+{
+	float:left;
+	margin:90px 0 0 0;
+	width:780px;
+	height:262px;
+	font-size:18px;
+	color:#999;
+	text-align:left;
+	padding:150px 0 0 0;
+}
+.watch
+{
+	float:left;
+	margin:80px 0 0 100px;
+}
+.watchyazi
+{
+	float:left;
+	text-align:left;
+	width:790px;
+	height:220px;
+	margin:80px 0 0 0;
+	color:#999;	
+	padding:150px 0 0 0;
+}
+.ipad
+{
+	float:left;
+	margin:80px 0 0 100px;	
+}
+.ipadyazi
+{
+	float:left;
+	text-align:left;
+	width:790px;
+	height:220px;
+	margin:80px 0 0 0;
+	color:#999;	
+	padding:150px 0 0 0;	
+}
+.ipod
+{
+	float:left;
+	margin:60px 0 0 100px;	
+}
+.ipodyazi
+{
+	float:left;
+	text-align:left;
+	width:720px;
+	height:220px;
+	margin:80px 0 0 0;
+	color:#999;	
+	padding:150px 0 0 10px;	
+}
+.itunes
+{
+	float:left;
+	margin:150px 0 0 100px;	
+}
+.itunesyazi
+{
+	float:left;
+	text-align:left;
+	width:1150px;
+	height:220px;
+	margin:80px 0 0 0;
+	color:#999;
+	font-size:18px;
+	padding:150px 0 0 10px;	
+}
+.support
+{
+	float:left;
+	width:450px;
+	height:auto;
+	margin:80px 0 0 60px;
+	text-align:left;
+	color:#999999;
+}
+.search
+{
+	margin:200px 0 0 500px;
+	width:auto;
+	height:auto;
+}
+.searchimg
+{
+	margin:200px 0 0 10px;
+	float:left;
+	width:20px;
+	height:20px;	
+}
+.alt
+{
+	width:100%;
+	height:200px;	
+}
+.kutu1
+{
+	float:left;
+	width:25%;
+	height:210px;
+	margin:0 1% 0 0;
+	background:#F2F2F2;
+	text-align:center;
+}
+.kutu2
+{
+	float:left;
+	width:24%;
+	height:210px;
+	background:#F2F2F2;
+	text-align:center;
+	margin:0 1% 0 0;
+}
+.kutu3
+{
+	float:left;
+	width:24%;
+	height:210px;
+	background:#F2F2F2;
+	text-align:center;
+	margin:0 1% 0 0;
+}
+.kutu4
+{
+	float:left;
+	width:24%;
+	height:210px;
+	background:#F2F2F2;
+	text-align:center;
+}
+.footer
+{
+	width:100%;
+	height:120px;
+	margin:10px 0 0 0;
+	
+}
+.footeryazi
+{
+	margin:auto;
+	width:580px;
+	height:120px;
+	font:13px 'Montserrat', sans-serif;
+}
